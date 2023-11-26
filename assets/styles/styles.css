@@ -1,0 +1,61 @@
+h1,
+.subtitle,
+h2,
+h3 {
+  text-align: center;
+}
+
+.columns-main {
+  margin: 0 auto;
+  width: 100%;
+  clear: both;
+  border-collapse: collapse;
+  table-layout: fixed;
+  word-wrap: break-word;
+}
+
+.profile-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.first-column {
+  background-color: lightsalmon;
+}
+
+p,
+li {
+  font-size: larger;
+}
+
+.description-aboutme {
+  margin-left: 12%;
+  max-width: 75%;
+  text-align: justify;
+}
+
+hr {
+  max-width: 80%;
+}
+
+.description-skills {
+  margin-left: 6%;
+  margin-right: 15%;
+}
+
+li {
+  margin-left: 29%;
+}
+
+.description-education,
+.description-experience,
+.description-languages {
+  text-align: center;
+}
+
+.LinkedinLogo, .GithubLogo {
+    width: 360px;
+    text-align: center;
+}
+
